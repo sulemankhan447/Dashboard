@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="banking">Banking</string>
+    <string name="ideas">Ideas</string>
+    <string name="add">Add</string>
+    <string name="links">Links</string>
+</resources>
